@@ -7,7 +7,7 @@ const HomePage = () => {
       {/* Hero/Banner Section with Image */}
       <div className="hero-section">
         <img
-          src="../assets/college-banner.png"
+          src="/images/college-banner.png"
           alt="Vivekanand College Campus"
           className="hero-banner-image"
         />
@@ -54,7 +54,7 @@ const HomePage = () => {
           companies.
         </li>
       </ul>
-      {/* Image Gallery Section */}
+      {/* Image Gallery Section  */}
       <h2>Campus Life & Facilities</h2>
       <div className="image-gallery">
         <img
